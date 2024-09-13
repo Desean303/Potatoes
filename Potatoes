@@ -1,0 +1,5 @@
+potatoes = input("how many potatoes do u have?")
+print("potatoes you have:", potatoes)
+
+age = input("how old are you?")
+print(age, "wow, thats old!")
